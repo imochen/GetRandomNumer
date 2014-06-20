@@ -1,5 +1,5 @@
-
-n( option ) {
+//给定范围内获取指定数目的随机数，包含前不包含后
+var ___get__random = function( option ) {
 
 	var _min = option.min || 0,
 		_max = option.max || 10,
