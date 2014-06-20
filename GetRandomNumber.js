@@ -137,10 +137,10 @@ var ___get__random = function( option ) {
 	}
 }
 
-var a = ___get__random({
-	min : 0,
-	max : 10,
-	num : 2,
-	repeat : true ,
-	debug : true
-});
+// ___get__random({
+// 	min : 0,
+// 	max : 10,
+// 	num : 2,
+// 	repeat : true ,
+// 	debug : true
+// });
